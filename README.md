@@ -13,4 +13,11 @@ $(document).ready(function() {
 });
 ```
 
+# Options
+
 # Demo
+//TODO
+
+# TODO
+* It should allow to specify the events to enable the swap to gif
+* Add some tests
